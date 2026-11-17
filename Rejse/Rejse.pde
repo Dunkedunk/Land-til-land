@@ -16,7 +16,7 @@ boolean guessSent = false;
 
 void setup() {
   size(1000, 700);
-  landeListe = loadJSONArray("landenettet.json");
+  landeListe = loadJSONArray("landenettet_alle_lande.json");
   startingCountry = "Denmark";
   currentCountry = startingCountry;
   finalCountry = "France";
