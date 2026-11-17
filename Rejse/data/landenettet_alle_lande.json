@@ -1,0 +1,1959 @@
+[
+  {
+    "code": "DK",
+    "name": "Danmark",
+    "capital": "Copenhagen",
+    "neighbors": [
+      "DE"
+    ]
+  },
+  {
+    "code": "DE",
+    "name": "Tyskland",
+    "capital": "Berlin",
+    "neighbors": [
+      "AT",
+      "BE",
+      "CH",
+      "CZ",
+      "DK",
+      "FR",
+      "LU",
+      "NL",
+      "PL"
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Nederlandene",
+    "capital": "Amsterdam",
+    "neighbors": [
+      "BE",
+      "DE"
+    ]
+  },
+  {
+    "code": "BE",
+    "name": "Belgien",
+    "capital": "Brussels",
+    "neighbors": [
+      "DE",
+      "FR",
+      "LU",
+      "NL"
+    ]
+  },
+  {
+    "code": "FR",
+    "name": "Frankrig",
+    "capital": "Paris",
+    "neighbors": [
+      "AD",
+      "BE",
+      "CH",
+      "DE",
+      "ES",
+      "IT",
+      "LU",
+      "MC",
+      "SR"
+    ]
+  },
+  {
+    "code": "CH",
+    "name": "Schweiz",
+    "capital": "Bern",
+    "neighbors": [
+      "AT",
+      "DE",
+      "FR",
+      "IT",
+      "LI"
+    ]
+  },
+  {
+    "code": "AT",
+    "name": "Østrig",
+    "capital": "Vienna",
+    "neighbors": [
+      "CH",
+      "CZ",
+      "DE",
+      "HU",
+      "IT",
+      "LI",
+      "SI",
+      "SK"
+    ]
+  },
+  {
+    "code": "CZ",
+    "name": "Tjekkiet",
+    "capital": "Prague",
+    "neighbors": [
+      "AT",
+      "DE",
+      "PL",
+      "SK"
+    ]
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "neighbors": [
+      "ES",
+      "FR"
+    ]
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "neighbors": [
+      "OM",
+      "SA"
+    ]
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "neighbors": [
+      "CN",
+      "IR",
+      "PK",
+      "TJ",
+      "TM",
+      "UZ"
+    ]
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "neighbors": []
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "capital": "Tirana",
+    "neighbors": [
+      "GR",
+      "ME",
+      "MK",
+      "RS"
+    ]
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "neighbors": [
+      "AZ",
+      "GE",
+      "IR",
+      "TR"
+    ]
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "neighbors": [
+      "CD",
+      "CG",
+      "NA",
+      "ZM"
+    ]
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "neighbors": [
+      "BO",
+      "BR",
+      "CL",
+      "PY",
+      "UY"
+    ]
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "neighbors": []
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "neighbors": [
+      "AM",
+      "GE",
+      "IR",
+      "RU",
+      "TR"
+    ]
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "neighbors": [
+      "HR",
+      "ME",
+      "RS"
+    ]
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "neighbors": []
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "neighbors": [
+      "IN",
+      "MM"
+    ]
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "neighbors": [
+      "BJ",
+      "CI",
+      "GH",
+      "ML",
+      "NE",
+      "TG"
+    ]
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "neighbors": [
+      "GR",
+      "MK",
+      "RO",
+      "RS",
+      "TR"
+    ]
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "capital": "Manama",
+    "neighbors": []
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "neighbors": [
+      "CD",
+      "RW",
+      "TZ"
+    ]
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "neighbors": [
+      "BF",
+      "NE",
+      "NG",
+      "TG"
+    ]
+  },
+  {
+    "code": "BN",
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "neighbors": [
+      "MY"
+    ]
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "neighbors": [
+      "AR",
+      "BR",
+      "CL",
+      "PE",
+      "PY"
+    ]
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "neighbors": [
+      "AR",
+      "BO",
+      "CO",
+      "GY",
+      "PE",
+      "PY",
+      "SR",
+      "UY",
+      "VE"
+    ]
+  },
+  {
+    "code": "BS",
+    "name": "The Bahamas",
+    "capital": "Nassau",
+    "neighbors": []
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "neighbors": [
+      "CN",
+      "IN"
+    ]
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "neighbors": [
+      "NA",
+      "ZA",
+      "ZM",
+      "ZW"
+    ]
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "capital": "Minsk",
+    "neighbors": [
+      "LT",
+      "LV",
+      "PL",
+      "RU",
+      "UA"
+    ]
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "capital": "Belmopan",
+    "neighbors": [
+      "GT",
+      "MX"
+    ]
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "neighbors": [
+      "US"
+    ]
+  },
+  {
+    "code": "CD",
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "neighbors": [
+      "AO",
+      "BI",
+      "CF",
+      "CG",
+      "RW",
+      "SS",
+      "TZ",
+      "UG",
+      "ZM"
+    ]
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "neighbors": [
+      "CD",
+      "CG",
+      "CM",
+      "SD",
+      "SS",
+      "TD"
+    ]
+  },
+  {
+    "code": "CG",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "neighbors": [
+      "AO",
+      "CD",
+      "CF",
+      "CM",
+      "GA"
+    ]
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "capital": "Yamoussoukro",
+    "neighbors": [
+      "BF",
+      "GH",
+      "GN",
+      "LR",
+      "ML"
+    ]
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "neighbors": [
+      "AR",
+      "BO",
+      "PE"
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "neighbors": [
+      "CF",
+      "CG",
+      "GA",
+      "GQ",
+      "NG",
+      "TD"
+    ]
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "capital": "Beijing",
+    "neighbors": [
+      "AF",
+      "BT",
+      "IN",
+      "KG",
+      "KP",
+      "KZ",
+      "LA",
+      "MM",
+      "MN",
+      "NP",
+      "PK",
+      "RU",
+      "TJ",
+      "VN"
+    ]
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "neighbors": [
+      "BR",
+      "EC",
+      "PA",
+      "PE",
+      "VE"
+    ]
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "neighbors": [
+      "NI",
+      "PA"
+    ]
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "capital": "Havana",
+    "neighbors": []
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "neighbors": []
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "neighbors": []
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "neighbors": [
+      "ER",
+      "ET",
+      "SO"
+    ]
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "capital": "Roseau",
+    "neighbors": []
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "neighbors": [
+      "HT"
+    ]
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "neighbors": [
+      "LY",
+      "MA",
+      "ML",
+      "MR",
+      "NE",
+      "TN"
+    ]
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "neighbors": [
+      "CO",
+      "PE"
+    ]
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "neighbors": [
+      "LV",
+      "RU"
+    ]
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "neighbors": [
+      "IL",
+      "LY",
+      "PS",
+      "SD"
+    ]
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "neighbors": [
+      "DJ",
+      "ET",
+      "SD"
+    ]
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "capital": "Madrid",
+    "neighbors": [
+      "AD",
+      "FR",
+      "MA",
+      "PT"
+    ]
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "neighbors": [
+      "DJ",
+      "ER",
+      "KE",
+      "SD",
+      "SO",
+      "SS"
+    ]
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "neighbors": [
+      "NO",
+      "RU",
+      "SE"
+    ]
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "capital": "Suva",
+    "neighbors": []
+  },
+  {
+    "code": "FM",
+    "name": "Federated States of Micronesia",
+    "capital": "Palikir",
+    "neighbors": []
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "neighbors": [
+      "CG",
+      "CM",
+      "GQ"
+    ]
+  },
+  {
+    "code": "GB",
+    "name": "Storbritannien",
+    "capital": "London",
+    "neighbors": [
+      "IE"
+    ]
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "capital": "St. George's",
+    "neighbors": []
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "neighbors": [
+      "AM",
+      "AZ",
+      "RU",
+      "TR"
+    ]
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "capital": "Accra",
+    "neighbors": [
+      "BF",
+      "CI",
+      "TG"
+    ]
+  },
+  {
+    "code": "GM",
+    "name": "The Gambia",
+    "capital": "Banjul",
+    "neighbors": [
+      "SN"
+    ]
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "neighbors": [
+      "CI",
+      "GW",
+      "LR",
+      "ML",
+      "SL",
+      "SN"
+    ]
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "neighbors": [
+      "CM",
+      "GA"
+    ]
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "capital": "Athens",
+    "neighbors": [
+      "AL",
+      "BG",
+      "MK",
+      "TR"
+    ]
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "neighbors": [
+      "BZ",
+      "HN",
+      "MX",
+      "SV"
+    ]
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "neighbors": [
+      "GN",
+      "SN"
+    ]
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "neighbors": [
+      "BR",
+      "SR",
+      "VE"
+    ]
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "neighbors": [
+      "GT",
+      "NI",
+      "SV"
+    ]
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "neighbors": [
+      "BA",
+      "HU",
+      "ME",
+      "RS",
+      "SI"
+    ]
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "neighbors": [
+      "DO"
+    ]
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "neighbors": [
+      "AT",
+      "HR",
+      "RO",
+      "RS",
+      "SI",
+      "SK",
+      "UA"
+    ]
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "neighbors": [
+      "MY",
+      "PG",
+      "TL"
+    ]
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "neighbors": [
+      "GB"
+    ]
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "neighbors": [
+      "EG",
+      "JO",
+      "LB",
+      "PS",
+      "SY"
+    ]
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "capital": "New Delhi",
+    "neighbors": [
+      "BD",
+      "BT",
+      "CN",
+      "LK",
+      "MM",
+      "NP",
+      "PK"
+    ]
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "neighbors": [
+      "IR",
+      "JO",
+      "KW",
+      "SA",
+      "SY",
+      "TR"
+    ]
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "capital": "Tehran",
+    "neighbors": [
+      "AF",
+      "AM",
+      "AZ",
+      "IQ",
+      "PK",
+      "TM",
+      "TR"
+    ]
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "neighbors": []
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "capital": "Rome",
+    "neighbors": [
+      "AT",
+      "CH",
+      "FR",
+      "SI",
+      "SM",
+      "VA"
+    ]
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "neighbors": []
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "capital": "Amman",
+    "neighbors": [
+      "IL",
+      "IQ",
+      "PS",
+      "SA",
+      "SY"
+    ]
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "neighbors": []
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "neighbors": [
+      "ET",
+      "SO",
+      "SS",
+      "TZ",
+      "UG"
+    ]
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "neighbors": [
+      "CN",
+      "KZ",
+      "TJ",
+      "UZ"
+    ]
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "neighbors": [
+      "LA",
+      "TH",
+      "VN"
+    ]
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "capital": "South Tarawa",
+    "neighbors": []
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "neighbors": []
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "neighbors": []
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "neighbors": [
+      "CN",
+      "KR",
+      "RU"
+    ]
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "neighbors": [
+      "KP"
+    ]
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "neighbors": [
+      "IQ",
+      "SA"
+    ]
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "neighbors": [
+      "CN",
+      "KG",
+      "RU",
+      "TM",
+      "UZ"
+    ]
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "neighbors": [
+      "CN",
+      "KH",
+      "MM",
+      "TH",
+      "VN"
+    ]
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "neighbors": [
+      "IL",
+      "SY"
+    ]
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "neighbors": []
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "neighbors": [
+      "AT",
+      "CH"
+    ]
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "capital": "Colombo",
+    "neighbors": [
+      "IN"
+    ]
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "neighbors": [
+      "CI",
+      "GN",
+      "SL"
+    ]
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "neighbors": [
+      "ZA"
+    ]
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "neighbors": [
+      "BY",
+      "LV",
+      "PL",
+      "RU"
+    ]
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "neighbors": [
+      "BE",
+      "DE",
+      "FR"
+    ]
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "capital": "Riga",
+    "neighbors": [
+      "BY",
+      "EE",
+      "LT",
+      "RU"
+    ]
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "neighbors": [
+      "DZ",
+      "EG",
+      "NE",
+      "SD",
+      "TD",
+      "TN"
+    ]
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "neighbors": [
+      "DZ",
+      "ES"
+    ]
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "neighbors": [
+      "FR"
+    ]
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "neighbors": [
+      "RO",
+      "UA"
+    ]
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "neighbors": [
+      "AL",
+      "BA",
+      "HR",
+      "RS"
+    ]
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "neighbors": []
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "neighbors": []
+  },
+  {
+    "code": "MK",
+    "name": "Republic of Macedonia",
+    "capital": "Skopje",
+    "neighbors": [
+      "AL",
+      "BG",
+      "GR",
+      "RS"
+    ]
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "capital": "Bamako",
+    "neighbors": [
+      "BF",
+      "CI",
+      "DZ",
+      "GN",
+      "MR",
+      "NE",
+      "SN"
+    ]
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "neighbors": [
+      "BD",
+      "CN",
+      "IN",
+      "LA",
+      "TH"
+    ]
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "neighbors": [
+      "CN",
+      "RU"
+    ]
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "neighbors": [
+      "DZ",
+      "ML",
+      "SN"
+    ]
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "capital": "Valletta",
+    "neighbors": []
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "neighbors": []
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "capital": "Malé",
+    "neighbors": []
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "neighbors": [
+      "MZ",
+      "TZ",
+      "ZM"
+    ]
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "neighbors": [
+      "BZ",
+      "GT",
+      "US"
+    ]
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "neighbors": [
+      "BN",
+      "ID",
+      "TH"
+    ]
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "neighbors": [
+      "MW",
+      "SZ",
+      "TZ",
+      "ZA",
+      "ZM",
+      "ZW"
+    ]
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "neighbors": [
+      "AO",
+      "BW",
+      "ZA",
+      "ZM"
+    ]
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "capital": "Niamey",
+    "neighbors": [
+      "BF",
+      "BJ",
+      "DZ",
+      "LY",
+      "ML",
+      "NG",
+      "TD"
+    ]
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "neighbors": [
+      "BJ",
+      "CM",
+      "NE",
+      "TD"
+    ]
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "neighbors": [
+      "CR",
+      "HN"
+    ]
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "capital": "Oslo",
+    "neighbors": [
+      "FI",
+      "RU",
+      "SE"
+    ]
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "neighbors": [
+      "CN",
+      "IN"
+    ]
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "capital": "Yaren",
+    "neighbors": []
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "neighbors": []
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "capital": "Muscat",
+    "neighbors": [
+      "AE",
+      "SA",
+      "YE"
+    ]
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "capital": "Panama City",
+    "neighbors": [
+      "CO",
+      "CR"
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "capital": "Lima",
+    "neighbors": [
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC"
+    ]
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "neighbors": [
+      "ID"
+    ]
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "capital": "Manila",
+    "neighbors": []
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "neighbors": [
+      "AF",
+      "CN",
+      "IN",
+      "IR"
+    ]
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "neighbors": [
+      "BY",
+      "CZ",
+      "DE",
+      "LT",
+      "RU",
+      "SK",
+      "UA"
+    ]
+  },
+  {
+    "code": "PS",
+    "name": "Palæstina",
+    "capital": "Østjerusalem",
+    "neighbors": [
+      "EG",
+      "IL",
+      "JO"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "neighbors": [
+      "ES"
+    ]
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "neighbors": []
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "neighbors": [
+      "AR",
+      "BO",
+      "BR"
+    ]
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "capital": "Doha",
+    "neighbors": [
+      "SA"
+    ]
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "neighbors": [
+      "BG",
+      "HU",
+      "MD",
+      "RS",
+      "UA"
+    ]
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "neighbors": [
+      "AL",
+      "BA",
+      "BG",
+      "HR",
+      "HU",
+      "ME",
+      "MK",
+      "RO"
+    ]
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "capital": "Moscow",
+    "neighbors": [
+      "AZ",
+      "BY",
+      "CN",
+      "EE",
+      "FI",
+      "GE",
+      "KP",
+      "KZ",
+      "LT",
+      "LV",
+      "MN",
+      "NO",
+      "PL",
+      "UA"
+    ]
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "neighbors": [
+      "BI",
+      "CD",
+      "TZ",
+      "UG"
+    ]
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "neighbors": [
+      "AE",
+      "IQ",
+      "JO",
+      "KW",
+      "OM",
+      "QA",
+      "YE"
+    ]
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "neighbors": []
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "neighbors": []
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "neighbors": [
+      "CF",
+      "EG",
+      "ER",
+      "ET",
+      "LY",
+      "SS",
+      "TD"
+    ]
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "neighbors": [
+      "FI",
+      "NO"
+    ]
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "neighbors": []
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "neighbors": [
+      "AT",
+      "HR",
+      "HU",
+      "IT"
+    ]
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "neighbors": [
+      "AT",
+      "CZ",
+      "HU",
+      "PL",
+      "UA"
+    ]
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "neighbors": [
+      "GN",
+      "LR"
+    ]
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "capital": "City of San Marino",
+    "neighbors": [
+      "IT"
+    ]
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "neighbors": [
+      "GM",
+      "GN",
+      "GW",
+      "ML",
+      "MR"
+    ]
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "neighbors": [
+      "DJ",
+      "ET",
+      "KE"
+    ]
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "neighbors": [
+      "BR",
+      "FR",
+      "GY"
+    ]
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "neighbors": [
+      "CD",
+      "CF",
+      "ET",
+      "KE",
+      "SD",
+      "TD",
+      "UG"
+    ]
+  },
+  {
+    "code": "ST",
+    "name": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "neighbors": []
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "neighbors": [
+      "GT",
+      "HN"
+    ]
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "capital": "Damascus",
+    "neighbors": [
+      "IL",
+      "IQ",
+      "JO",
+      "LB",
+      "TR"
+    ]
+  },
+  {
+    "code": "SZ",
+    "name": "Swaziland",
+    "capital": "Lobamba",
+    "neighbors": [
+      "MZ",
+      "ZA"
+    ]
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "neighbors": [
+      "CF",
+      "CM",
+      "LY",
+      "NE",
+      "NG",
+      "SD",
+      "SS"
+    ]
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "capital": "Lomé",
+    "neighbors": [
+      "BF",
+      "BJ",
+      "GH"
+    ]
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "neighbors": [
+      "KH",
+      "LA",
+      "MM",
+      "MY"
+    ]
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "neighbors": [
+      "AF",
+      "CN",
+      "KG",
+      "UZ"
+    ]
+  },
+  {
+    "code": "TL",
+    "name": "East Timor",
+    "capital": "Dili",
+    "neighbors": [
+      "ID"
+    ]
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "neighbors": [
+      "AF",
+      "IR",
+      "KZ",
+      "UZ"
+    ]
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "neighbors": [
+      "DZ",
+      "LY"
+    ]
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "neighbors": []
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "neighbors": [
+      "AM",
+      "AZ",
+      "BG",
+      "GE",
+      "GR",
+      "IQ",
+      "IR",
+      "SY"
+    ]
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "neighbors": []
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "neighbors": []
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "neighbors": [
+      "BI",
+      "CD",
+      "KE",
+      "MW",
+      "MZ",
+      "RW",
+      "UG",
+      "ZM"
+    ]
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "neighbors": [
+      "BY",
+      "HU",
+      "MD",
+      "PL",
+      "RO",
+      "RU",
+      "SK"
+    ]
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "neighbors": [
+      "CD",
+      "KE",
+      "RW",
+      "SS",
+      "TZ"
+    ]
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "capital": "Washington D.C.",
+    "neighbors": [
+      "CA",
+      "MX"
+    ]
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "neighbors": [
+      "AR",
+      "BR"
+    ]
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "neighbors": [
+      "AF",
+      "KG",
+      "KZ",
+      "TJ",
+      "TM"
+    ]
+  },
+  {
+    "code": "VA",
+    "name": "Vatikanstaten",
+    "capital": "Vatikanstaten",
+    "neighbors": [
+      "IT"
+    ]
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "neighbors": []
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "neighbors": [
+      "BR",
+      "CO",
+      "GY"
+    ]
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "neighbors": [
+      "CN",
+      "KH",
+      "LA"
+    ]
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "neighbors": []
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "capital": "Apia",
+    "neighbors": []
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "neighbors": [
+      "OM",
+      "SA"
+    ]
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "neighbors": [
+      "BW",
+      "LS",
+      "MZ",
+      "NA",
+      "SZ",
+      "ZW"
+    ]
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "neighbors": [
+      "AO",
+      "BW",
+      "CD",
+      "MW",
+      "MZ",
+      "NA",
+      "TZ",
+      "ZW"
+    ]
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "neighbors": [
+      "BW",
+      "MZ",
+      "ZA",
+      "ZM"
+    ]
+  }
+]
